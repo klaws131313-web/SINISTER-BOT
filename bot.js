@@ -1,8 +1,8 @@
 const { Telegraf } = require('telegraf');
 const axios = require('axios');
 
-const BOT_TOKEN = process.env.BOT_TOKEN;
-const GROQ_KEY = process.env.GROQ_KEY;
+const BOT_TOKEN = process.env.8783687370:AAHcEVTuULJptZxCAHY4spTbcZiif-kaiZU;
+const OPENROUTER_KEY = process.env.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;
 const bot = new Telegraf(BOT_TOKEN);
 const history = new Map();
 
