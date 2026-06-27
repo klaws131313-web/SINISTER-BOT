@@ -1,7 +1,11 @@
 {
   "name": "sinister",
   "version": "1.0.0",
+  "description": "SINISTER bot for Telegram",
   "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
   "dependencies": {
     "telegraf": "^4.15.0",
     "axios": "^1.6.0"
